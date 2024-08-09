@@ -26,7 +26,7 @@ public class Alumno {
         System.out.println("Alumno: " + nombre + " " + apellido + ", Carnet: " + carnet);
     }
 
-    // Getters y setters si es necesario
+    // Getters y setters
     public int getCarnet() {
         return carnet;
     }
